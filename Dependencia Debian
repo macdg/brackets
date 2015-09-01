@@ -1,0 +1,15 @@
+English:
+In DEBIAN.
+Only for Debian-based distros: Brackets depends on libgcrypt11 package and I did not work with version new libgcrypt20 also download the package libgcrypt11 from the page of Debian and do not run the recommended, I had to resort to different versions of libgcrypt11 and I worked was closed and recommended:
+
+https://github.com/adobe/brackets/issues/11591
+http://ubunlog.com/libgcrypt11-hace-que-spotify-y-brackets-no-funcionen-en-ubuntu-15-04/
+http://ftp.acc.umu.se/mirror/cdimage/snapshot/Debian/pool/main/libg/libgcrypt11/
+
+Español México.
+EN DEBIAN.
+Solo para Distros basadas en Debian: Brackets depende del paquete libgcrypt11 y no me funciono con la version nueva libgcrypt20, además descargue el paquete de  libgcrypt11 desde la pagina de Debian y no me funciono el recomendado, tuve que recurrir a diferentes versiones de libgcrypt11 y la que me funciono fue la recomendada y cerrada en:
+
+https://github.com/adobe/brackets/issues/11591
+http://ubunlog.com/libgcrypt11-hace-que-spotify-y-brackets-no-funcionen-en-ubuntu-15-04/
+http://ftp.acc.umu.se/mirror/cdimage/snapshot/Debian/pool/main/libg/libgcrypt11/
